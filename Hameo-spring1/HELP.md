@@ -5,7 +5,7 @@ The following was discovered as part of building this project:
 
 # Getting Started
 
-### Reference Documentation
+### Reference Documentati
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
